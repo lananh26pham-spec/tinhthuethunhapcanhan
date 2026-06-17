@@ -1,8 +1,8 @@
 import streamlit as st
 
 # Cấu hình trang web của ứng dụng
-st.set_page_config(page_title="App Tính Thuế TNCN Việt Nam_ĐỀ TÀI 7_ PHẠM THỊ LAN ANH", page_icon="💰", layout="centered")
-st.logo("logo.jpg")
+st.set_page_config(page_title=" Tính Thuế TNCN Việt Nam_ĐỀ TÀI 7_ PHẠM THỊ LAN ANH", page_icon="💰", layout="centered")
+st.image("logo.jpg")
 st.title("💰 Ứng Dụng Tính Thuế Thu Nhập Cá Nhân")
 st.subheader("ĐỀ TÀI 7_PHẠM THỊ LAN ANH")
 st.write("Cập nhật theo quy định pháp luật thuế hiện hành tại Việt Nam")
