@@ -4,6 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="App Tính Thuế TNCN Việt Nam_ĐỀ TÀI 7_ PHẠM THỊ LAN ANH", page_icon="💰", layout="centered")
 
 st.title("💰 Ứng Dụng Tính Thuế Thu Nhập Cá Nhân")
+st.subheader("ĐỀ TÀI 7_PHẠM THỊ LAN ANH")
 st.write("Cập nhật theo quy định pháp luật thuế hiện hành tại Việt Nam")
 st.markdown("---")
 
